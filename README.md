@@ -4,7 +4,7 @@ Versionshantering med Git
 
 ## Beskrivning
 
-Denna enkla readme fil är tillverkad som exemplar för moment 1 på kursen DT173G Webbutveckling III
+Denna enkla readme-fil är tillverkad som exemplar för moment 1 på kursen DT173G Webbutveckling III hos Mittuniversitetet.
 
 ## Sammanfattning
 
